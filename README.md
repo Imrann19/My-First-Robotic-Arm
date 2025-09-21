@@ -8,7 +8,7 @@ It was my very first project in robotics and programming, and it sparked my pass
 
 Photo of the robotic arm is below.
 
-![WhatsApp Image 2025-09-21 at 18 33 44](https://github.com/user-attachments/assets/ad033e17-7adf-4e17-8c0c-b21e52df122a)
+<img width="240" height="233" alt="Capture" src="https://github.com/user-attachments/assets/ff07fb19-8289-4fed-995e-a6295493afe7" />
 
 # Français
 
@@ -20,4 +20,5 @@ C'était mon tout premier projet en robotique et en programmation, et il a évei
 
 Photo du bras robotique ci-dessous.
 
-![WhatsApp Image 2025-09-21 at 18 33 44](https://github.com/user-attachments/assets/ad033e17-7adf-4e17-8c0c-b21e52df122a)
+
+<img width="240" height="233" alt="Capture" src="https://github.com/user-attachments/assets/ff07fb19-8289-4fed-995e-a6295493afe7" />
