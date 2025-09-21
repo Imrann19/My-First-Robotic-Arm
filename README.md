@@ -8,7 +8,7 @@ It was my very first project in robotics and programming, and it sparked my pass
 
 Photo of the robotic arm is below.
 
-<img width="120" height="115" alt="Capture" src="https://github.com/user-attachments/assets/ff07fb19-8289-4fed-995e-a6295493afe7" />
+<img width="240" height="233" alt="Capture" src="https://github.com/user-attachments/assets/ff07fb19-8289-4fed-995e-a6295493afe7" /
 
 # Français
 
